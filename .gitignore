@@ -1,0 +1,11 @@
+.cproject
+.project
+.settings/
+Debug/
+Bin/
+Relese/
+*.elf
+*.hex
+*.lss
+*.o
+*.lst
